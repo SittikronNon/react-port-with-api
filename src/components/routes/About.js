@@ -5,6 +5,7 @@ const About = () => {
     <>
     <Navbar />
     <h1>About</h1>
+    
     </>
   )
 }
