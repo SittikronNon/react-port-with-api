@@ -3,6 +3,7 @@
     margin: 0;
     font-size: 4em;
     text-align: center;
+    min-height: 250px;
     background-color: #e2dada;
 }
 

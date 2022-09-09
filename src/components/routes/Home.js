@@ -1,10 +1,12 @@
 import React from 'react'
+import Banner from '../Banner'
 import Style from '../routesStyle/Home.css'
 
 const Home = () => {
     return (
         <>
-            <h1 className='home-title'>Placeholder</h1>
+            <Banner />
+            
             <div className='container'>
                 <section>
                     <div className='content'>
