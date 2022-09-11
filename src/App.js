@@ -1,15 +1,20 @@
 
-
-import Navbar from './components/Navbar'
-import Home from './components/routes/Home';
+import './App.css';
+import Navbar from './components/Navbar';
+import About from './components/About';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App">
+    <main className='text-gray-400'>
       <Navbar />
-      <Home />
-      
-    </div>
+      <About />
+      <Projects />
+      <Skills />
+      <Contact />
+    </main>
   );
 }
 
