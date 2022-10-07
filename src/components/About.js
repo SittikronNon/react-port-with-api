@@ -14,6 +14,10 @@ const About = () => {
             laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
             Laborum, voluptas natus? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
             laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
+            Laborum, voluptas natus? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
+            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
+            Laborum, voluptas natus? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
+            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
             Laborum, voluptas natus?
           </p>
           <div className='flex justify-center'>
